@@ -2,6 +2,7 @@ import React, { StrictMode } from "react";
 import ReactDom from "react-dom/client";
 import "./index.css";
 
+console.log("🚀 React app started!");
 function App() {
   return (
     <div className="card">
