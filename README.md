@@ -30,11 +30,6 @@ Perfect for practicing **components, props, and styling** in React.
 
 ---
 
-## 🖼️ Screenshot
-(Add a screenshot of your card here)
-
----
-
 ## 🌐 Live Demo
 👉 [View on GitHub Pages](https://your-username.github.io/react-profile-card/)
 
