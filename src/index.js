@@ -55,7 +55,11 @@ function Intro() {
 function Avatar() {
   return (
     <div>
-      <img className="avatar" src="/images/moni.jpg" alt="Muzammil Ijaz" />
+      <img
+        className="avatar"
+        src={`${process.env.PUBLIC_URL}/images/moni.jpg`}
+        alt="Muzammil Ijaz"
+      />
     </div>
   );
 }
